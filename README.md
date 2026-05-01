@@ -177,7 +177,7 @@ See `docs/` for the full ERD, relational schema, and normalization analysis.
 | ---- | ---------- | ---- |
 |      |            | Team Leader |
 |      |            | Member |
-|      |            | Member |
+| Nguyen Minh Nhat     |  ITITWE24060          | Member |
 
 ## 👨‍🏫 Instructor
 
